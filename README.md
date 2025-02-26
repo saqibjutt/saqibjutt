@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I am Ran Bahadur kc, Software Developer</h2>
+<h2 align="left">Hi 👋 I am Muhammad Saqib Mahmood, Software Developer</h2>
 
 ###
 
