@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Khatri-Ran-Bahadur&theme=radical&exclude_days=Sun" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khatri-Ran-Bahadur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img align="right" height="150" src="https://github.com/Khatri-Ran-Bahadur/Khatri-Ran-Bahadur/blob/847afb8b06eecba0e4b72ba353524f694a841f4d/rn-edited-photo.png"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/85228174?s=400&u=2d8cb7809422c4073f467309728d49624bb9e475&v=4"  />
 </div>
 
 ###
@@ -14,6 +14,10 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="30" alt="Dart logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
