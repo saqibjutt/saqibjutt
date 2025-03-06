@@ -63,13 +63,13 @@
 <div align="left">
   
 
-  <a href="https://www.linkedin.com/in/ran-bahadur-kc-645951156" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:ranbdrkc201@gmail.com" target="_blank">
+  <a href="mailto:saqib7t2@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/ranbdrkc" target="_blank">
+  <a href="https://www.instagram.com/imsaqibjutt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   
@@ -83,4 +83,3 @@
 
 
 
-<img src="https://github.com/saqibjutt/saqibjutt/blob/f14cfe2d82bde00f2f749ae2199f3d9ae86219a1/snake.svg" alt="Snake animation" />
