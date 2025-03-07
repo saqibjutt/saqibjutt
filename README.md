@@ -3,6 +3,7 @@
 ###
 
 <div align="center">
+<!--   not loading -->
   <img src="https://streak-stats.demolab.com?user=saqibjutt&theme=radical&exclude_days=Sun" height="150" alt="streak graph"  />
     <img src="https://streak-stats.demolab.com?user=Khatri-Ran-Bahadur&theme=radical&exclude_days=Sun" height="150" alt="streak graph"  />
 
